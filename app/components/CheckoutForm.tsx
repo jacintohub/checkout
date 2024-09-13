@@ -36,7 +36,7 @@ const CheckoutForm = () => {
 
   return (
     <motion.div
-      className="max-w-6xl mx-auto p-24 bg-white shadow-md rounded-lg"
+      className="max-w-6xl mx-auto p-14 bg-white shadow-md rounded-lg"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.9 }}
